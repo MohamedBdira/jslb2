@@ -1,14 +1,14 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: #3498db;
+    background-color: #034c91;
     box-sizing: border-box;
 
 }
 
 .container {
     font-family: Arial, sans-serif;
-    background-color: #3498db;
+    background-color: #146397;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,7 +50,7 @@ h1 {
 }
 
 .matched {
-    background-color: #4CAF50;
+    background-color: #39853b;
     color: #fff;
 }
 
@@ -69,7 +69,7 @@ h1 {
 #startbtn{
     padding: 10px 20px;
     background-color: white;
-    color: #3498db;
+    color: #175a87;
     border: none;
     font-weight: 900;
 }
