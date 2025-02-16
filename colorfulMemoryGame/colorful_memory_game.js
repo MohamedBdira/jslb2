@@ -61,7 +61,7 @@ function checkMatch() {
 function startGame() {
     let timeLeft = 30;
     startbtn.disabled = true;
-    score = 0; // Reset score to zero
+    score = 0; // Resets score
     scoreElement.textContent = `Score: ${score}`;
     startGameTimer(timeLeft);
     cards = shuffle(colors.concat(colors));
